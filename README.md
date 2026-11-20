@@ -45,15 +45,43 @@ python -m experimentos.executar_todos   # refaz os experimentos (~2 min)
 
 A chave `service_role` fica apenas no servidor Streamlit e nunca é enviada ao navegador. As tabelas têm RLS ativo e nenhuma política pública, então a chave `anon` não acessa os dados.
 
-## Deploy (Streamlit Community Cloud)
-1. Suba esta pasta para um repositório no GitHub.
-2. Em <https://share.streamlit.io>, clique em **Create app**, escolha o repositório e informe o *Main file* `app.py`. Em **Advanced settings**, escolha **Python 3.12**.
-3. Em **Advanced settings → Secrets**, cole:
-   ```toml
-   SUPABASE_URL = "https://SEU-PROJETO.supabase.co"
-   SUPABASE_KEY = "sua-chave-service_role"
+## Deploy (Railway)
+A configuração já está no repositório:
+
+| Arquivo | Função |
+|---|---|
+| `railway.json` | Build com Railpack, comando de start, health check em `/_stcore/health` e reinício automático em caso de falha |
+| `.python-version` | Fixa o Python 3.12 no build |
+| `Procfile` | Mesmo comando de start, para quem preferir esse formato |
+| `requirements.txt` | Dependências instaladas pelo Railway |
+
+O Streamlit escuta a porta que o Railway define em `$PORT`, no endereço `0.0.0.0`.
+
+**Pelo painel (recomendado)**
+1. Suba esta pasta (`logipr/`) para um repositório no GitHub. Ela precisa ser a raiz do repositório; se não for, informe `Formal N2/logipr` em **Settings → Root Directory**.
+2. Em <https://railway.com>, clique em **New Project → Deploy from GitHub repo** e escolha o repositório.
+3. No serviço criado, abra **Variables** e cadastre:
    ```
-4. Clique em **Deploy**. Cada novo `git push` atualiza o app.
+   SUPABASE_URL = https://SEU-PROJETO.supabase.co
+   SUPABASE_KEY = sua-chave-service_role
+   ```
+4. Em **Settings → Networking**, clique em **Generate Domain** para ganhar o endereço público (`*.up.railway.app`).
+5. Cada novo `git push` na branch principal gera um deploy automático.
+
+**Pela linha de comando**
+```bash
+npm i -g @railway/cli
+railway login
+railway init
+railway up
+railway variables --set "SUPABASE_URL=https://SEU-PROJETO.supabase.co" --set "SUPABASE_KEY=sua-chave-service_role"
+railway domain
+```
+
+**Observações**
+- Sem as variáveis do Supabase o app sobe normalmente usando os CSVs. Porém o disco do Railway é apagado a cada deploy, então cadastros feitos nesse modo se perdem. Com o Supabase, os dados persistem.
+- A chave `service_role` fica só nas variáveis do servidor e nunca chega ao navegador.
+- O Railway cobra pelo uso (há crédito de teste para contas novas). Um app Streamlit pequeno como este consome pouco, mas desligue o serviço depois da apresentação se não for mais usá-lo.
 
 ## Fontes de dados
 - **Cidades:** municípios do IBGE com coordenadas, do dataset aberto [kelvins/municipios-brasileiros](https://github.com/kelvins/municipios-brasileiros), filtrado para 50 cidades do PR.

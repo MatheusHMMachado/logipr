@@ -63,7 +63,7 @@ with st.expander("Arquitetura e restrições atendidas"):
 | Linguagem | Python |
 | Interface | Streamlit (uma página por módulo) |
 | Armazenamento | Supabase (PostgreSQL) com fallback em CSV |
-| Hospedagem | Streamlit Community Cloud |
+| Hospedagem | Railway |
 
 **Todos os algoritmos foram implementados pelo grupo** (pasta `modulos/`): Entropia, Ganho de
 Informação, ID3, BFS, DFS, Dijkstra (com heap mínimo próprio), Heap Sort, Quick Sort e Merge Sort.
