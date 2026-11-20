@@ -1,0 +1,301 @@
+id_pedido,cd_origem,cidade_destino,distancia_km,faixa_distancia,peso_kg,faixa_peso,veiculo,turno_saida,clima,prioridade,valor_frete,prazo_dias,status_entrega
+P00001,Curitiba,Irati,206.4,Curta,262.21,Médio,Van,Tarde,Bom,Expressa,439.77,1,No prazo
+P00002,Maringá,União da Vitória,444.3,Média,30.78,Médio,Van,Manhã,Bom,Expressa,651.73,2,No prazo
+P00003,Londrina,Dois Vizinhos,456.0,Média,10.76,Leve,Moto,Tarde,Bom,Expressa,643.84,2,Atrasado
+P00004,Cascavel,Guaratuba,752.7,Longa,4.66,Leve,Moto,Noite,Bom,Normal,698.74,5,Atrasado
+P00005,Cascavel,Paranaguá,745.3,Longa,166.77,Médio,Van,Tarde,Chuvoso,Normal,909.49,4,Atrasado
+P00006,Maringá,Morretes,567.5,Longa,90.7,Médio,Moto,Tarde,Chuvoso,Normal,618.4,4,Atrasado
+P00007,Maringá,Cianorte,95.6,Curta,269.21,Médio,Van,Tarde,Chuvoso,Expressa,213.55,1,No prazo
+P00008,Cascavel,Laranjeiras do Sul,221.8,Curta,245.97,Médio,Van,Noite,Bom,Normal,312.82,2,No prazo
+P00009,Curitiba,Cianorte,538.3,Longa,153.78,Médio,Van,Noite,Bom,Normal,648.47,4,Atrasado
+P00010,Maringá,Mandaguari,39.1,Curta,254.5,Médio,Caminhão,Manhã,Bom,Expressa,94.65,1,No prazo
+P00011,Maringá,Cornélio Procópio,173.9,Curta,377.25,Pesado,Caminhão,Tarde,Bom,Expressa,426.89,1,No prazo
+P00012,Maringá,Antonina,579.5,Longa,13.81,Leve,Van,Manhã,Bom,Normal,550.96,4,No prazo
+P00013,Londrina,Rolândia,26.1,Curta,31.48,Médio,Van,Noite,Chuvoso,Normal,39.97,2,No prazo
+P00014,Cascavel,Foz do Iguaçu,169.5,Curta,191.54,Médio,Van,Manhã,Bom,Normal,225.99,2,No prazo
+P00015,Cascavel,Ibiporã,449.8,Média,70.19,Médio,Van,Noite,Bom,Normal,476.65,3,No prazo
+P00016,Londrina,Wenceslau Braz,236.9,Curta,1119.39,Pesado,Caminhão,Noite,Bom,Normal,705.54,2,No prazo
+P00017,Ponta Grossa,Cianorte,423.7,Média,198.34,Médio,Van,Tarde,Bom,Normal,547.6,3,No prazo
+P00018,Ponta Grossa,Arapongas,390.4,Média,43.11,Médio,Van,Tarde,Bom,Normal,396.65,3,No prazo
+P00019,Ponta Grossa,Palmas,329.4,Média,523.29,Pesado,Caminhão,Tarde,Chuvoso,Normal,621.73,3,Atrasado
+P00020,Ponta Grossa,Goioerê,447.9,Média,250.07,Médio,Van,Tarde,Bom,Normal,619.72,3,No prazo
+P00021,Londrina,Campo Mourão,193.6,Curta,1354.36,Pesado,Caminhão,Manhã,Chuvoso,Expressa,984.31,1,No prazo
+P00022,Curitiba,Jacarezinho,374.4,Média,1250.18,Pesado,Caminhão,Tarde,Bom,Expressa,1784.23,2,No prazo
+P00023,Cascavel,Guaratuba,752.7,Longa,65.89,Médio,Moto,Manhã,Bom,Normal,781.71,5,Atrasado
+P00024,Ponta Grossa,Rio Negro,162.6,Curta,104.8,Médio,Van,Manhã,Bom,Normal,192.01,2,No prazo
+P00025,Londrina,Antonina,567.3,Longa,7.44,Leve,Van,Noite,Chuvoso,Normal,533.17,4,Atrasado
+P00026,Cascavel,Arapongas,395.7,Média,855.26,Pesado,Caminhão,Noite,Bom,Expressa,1462.94,2,No prazo
+P00027,Londrina,Lapa,534.2,Longa,24.6,Leve,Van,Manhã,Bom,Expressa,771.65,3,No prazo
+P00028,Curitiba,Ibiporã,489.0,Média,273.81,Médio,Van,Tarde,Chuvoso,Normal,696.11,3,Atrasado
+P00029,Curitiba,Arapongas,502.6,Longa,10.94,Leve,Moto,Tarde,Bom,Normal,477.24,4,Atrasado
+P00030,Maringá,Rolândia,77.0,Curta,4.19,Leve,Caminhão,Tarde,Bom,Normal,84.88,2,No prazo
+P00031,Curitiba,Apucarana,482.5,Média,14.63,Leve,Caminhão,Tarde,Chuvoso,Normal,461.95,3,No prazo
+P00032,Cascavel,Goioerê,152.2,Curta,15.85,Leve,Van,Tarde,Bom,Normal,156.32,2,No prazo
+P00033,Cascavel,Cianorte,246.0,Curta,1471.41,Pesado,Caminhão,Manhã,Chuvoso,Normal,887.94,2,No prazo
+P00034,Londrina,Maringá,103.1,Curta,158.05,Médio,Van,Manhã,Bom,Normal,137.12,2,No prazo
+P00035,Londrina,Palmas,503.7,Longa,202.6,Médio,Van,Tarde,Bom,Expressa,970.53,3,No prazo
+P00036,Curitiba,Palotina,671.0,Longa,25.54,Leve,Caminhão,Manhã,Chuvoso,Normal,649.74,4,Atrasado
+P00037,Ponta Grossa,Morretes,231.7,Curta,4.69,Leve,Moto,Tarde,Bom,Normal,225.48,2,No prazo
+P00038,Londrina,Palotina,389.7,Média,4.45,Leve,Van,Noite,Bom,Expressa,545.78,2,Atrasado
+P00039,Cascavel,Colombo,675.2,Longa,115.03,Médio,Moto,Manhã,Bom,Expressa,1136.22,3,Atrasado
+P00040,Londrina,Bandeirantes,109.8,Curta,6.88,Leve,Moto,Noite,Bom,Expressa,165.27,1,No prazo
+P00041,Maringá,Goioerê,189.4,Curta,123.97,Médio,Van,Tarde,Chuvoso,Normal,227.72,2,No prazo
+P00042,Cascavel,Jacarezinho,593.9,Longa,23.48,Leve,Moto,Tarde,Bom,Normal,574.61,4,Atrasado
+P00043,Londrina,Irati,410.7,Média,783.74,Pesado,Van,Noite,Bom,Normal,964.02,3,Atrasado
+P00044,Londrina,Pato Branco,482.5,Média,5.05,Leve,Moto,Manhã,Chuvoso,Normal,453.64,3,Atrasado
+P00045,Maringá,Goioerê,189.4,Curta,18.99,Leve,Van,Manhã,Bom,Normal,191.94,2,No prazo
+P00046,Curitiba,Paranaguá,97.9,Curta,121.01,Médio,Caminhão,Noite,Chuvoso,Expressa,179.15,1,Atrasado
+P00047,Cascavel,Palmas,307.1,Média,10.89,Leve,Van,Manhã,Bom,Normal,297.41,3,No prazo
+P00048,Cascavel,Londrina,433.4,Média,879.55,Pesado,Van,Tarde,Bom,Normal,1091.22,3,No prazo
+P00049,Londrina,Apucarana,52.8,Curta,169.08,Médio,Van,Tarde,Bom,Expressa,110.38,1,No prazo
+P00050,Ponta Grossa,Ivaiporã,265.5,Média,1107.8,Pesado,Caminhão,Manhã,Bom,Normal,783.37,3,No prazo
+P00051,Ponta Grossa,Campo Mourão,360.3,Média,28.2,Leve,Van,Manhã,Chuvoso,Normal,357.56,3,No prazo
+P00052,Londrina,Jacarezinho,160.6,Curta,14.65,Leve,Moto,Tarde,Bom,Normal,163.78,2,No prazo
+P00053,Maringá,Curitiba,517.7,Longa,15.61,Leve,Van,Noite,Chuvoso,Expressa,735.72,3,Atrasado
+P00054,Cascavel,Santo Antônio da Platina,578.8,Longa,294.88,Médio,Caminhão,Noite,Bom,Normal,843.14,4,No prazo
+P00055,Londrina,Cornélio Procópio,71.2,Curta,17.08,Leve,Caminhão,Noite,Bom,Expressa,114.4,1,No prazo
+P00056,Cascavel,Dois Vizinhos,124.8,Curta,7.61,Leve,Moto,Manhã,Chuvoso,Expressa,186.04,1,No prazo
+P00057,Ponta Grossa,Paranaguá,271.7,Média,128.27,Médio,Van,Tarde,Bom,Normal,322.26,3,No prazo
+P00058,Ponta Grossa,Toledo,571.6,Longa,24.02,Leve,Van,Noite,Bom,Normal,554.15,4,No prazo
+P00059,Ponta Grossa,Guarapuava,175.9,Curta,502.04,Pesado,Caminhão,Tarde,Bom,Normal,332.26,2,No prazo
+P00060,Cascavel,Apucarana,381.3,Média,15.68,Leve,Van,Manhã,Chuvoso,Normal,368.93,3,No prazo
+P00061,Maringá,Antonina,579.5,Longa,10.91,Leve,Van,Manhã,Bom,Normal,547.93,4,No prazo
+P00062,Curitiba,Mandaguari,479.5,Média,257.3,Médio,Van,Tarde,Bom,Normal,668.63,3,No prazo
+P00063,Maringá,Jandaia do Sul,46.3,Curta,199.96,Médio,Caminhão,Tarde,Bom,Expressa,102.5,1,No prazo
+P00064,Curitiba,União da Vitória,288.1,Média,21.59,Leve,Moto,Tarde,Bom,Expressa,420.73,2,No prazo
+P00065,Curitiba,Paranaguá,97.9,Curta,1247.36,Pesado,Caminhão,Manhã,Bom,Normal,322.92,2,No prazo
+P00066,Londrina,Medianeira,502.7,Longa,567.19,Pesado,Caminhão,Manhã,Bom,Normal,980.66,4,No prazo
+P00067,Cascavel,Irati,452.5,Média,51.38,Médio,Van,Tarde,Chuvoso,Expressa,688.64,2,Atrasado
+P00068,Londrina,Arapongas,37.7,Curta,1.74,Leve,Moto,Tarde,Chuvoso,Expressa,66.07,1,No prazo
+P00069,Cascavel,Apucarana,381.3,Média,9.89,Leve,Moto,Noite,Bom,Normal,364.96,3,No prazo
+P00070,Cascavel,Palmas,307.1,Média,28.93,Leve,Moto,Tarde,Bom,Expressa,453.58,2,Atrasado
+P00071,Maringá,Francisco Beltrão,469.8,Média,143.15,Médio,Van,Manhã,Chuvoso,Normal,558.88,3,No prazo
+P00072,Maringá,Palmas,486.1,Média,28.39,Leve,Moto,Manhã,Bom,Normal,477.33,3,Atrasado
+P00073,Maringá,Umuarama,191.4,Curta,264.78,Médio,Van,Tarde,Chuvoso,Normal,278.48,2,No prazo
+P00074,Maringá,Laranjeiras do Sul,341.4,Média,799.16,Pesado,Caminhão,Manhã,Bom,Expressa,1212.54,2,Atrasado
+P00075,Londrina,Jandaia do Sul,77.2,Curta,5.45,Leve,Van,Noite,Bom,Expressa,120.35,1,No prazo
+P00076,Curitiba,Jacarezinho,374.4,Média,1309.09,Pesado,Caminhão,Noite,Chuvoso,Expressa,1843.77,2,No prazo
+P00077,Maringá,Assis Chateaubriand,263.0,Média,5.47,Leve,Moto,Tarde,Bom,Normal,254.29,3,No prazo
+P00078,Cascavel,Colombo,675.2,Longa,175.9,Médio,Moto,Manhã,Bom,Normal,836.47,4,Atrasado
+P00079,Curitiba,Londrina,505.5,Longa,3.14,Leve,Moto,Tarde,Bom,Normal,472.8,4,Atrasado
+P00080,Ponta Grossa,Maringá,405.5,Média,10.66,Leve,Caminhão,Noite,Chuvoso,Expressa,574.09,2,Atrasado
+P00081,Ponta Grossa,Santo Antônio da Platina,274.7,Média,178.58,Médio,Caminhão,Manhã,Bom,Normal,350.53,3,No prazo
+P00082,Londrina,Morretes,555.3,Longa,325.31,Pesado,Caminhão,Manhã,Chuvoso,Expressa,1252.4,3,Atrasado
+P00083,Cascavel,Santo Antônio da Platina,578.8,Longa,312.68,Pesado,Van,Noite,Bom,Normal,861.68,4,Atrasado
+P00084,Maringá,União da Vitória,444.3,Média,1094.6,Pesado,Van,Manhã,Bom,Normal,1290.26,3,No prazo
+P00085,Londrina,Apucarana,52.8,Curta,9.22,Leve,Moto,Tarde,Bom,Expressa,87.59,1,No prazo
+P00086,Curitiba,Lapa,77.5,Curta,1428.28,Pesado,Caminhão,Manhã,Bom,Normal,283.99,2,No prazo
+P00087,Ponta Grossa,Campo Mourão,360.3,Média,87.68,Médio,Caminhão,Tarde,Bom,Expressa,586.7,2,No prazo
+P00088,Ponta Grossa,Campo Mourão,360.3,Média,4.29,Leve,Moto,Tarde,Chuvoso,Normal,342.05,3,Atrasado
+P00089,Londrina,Jacarezinho,160.6,Curta,662.5,Pesado,Caminhão,Noite,Bom,Expressa,519.08,1,No prazo
+P00090,Ponta Grossa,Marechal Cândido Rondon,594.8,Longa,1034.24,Pesado,Caminhão,Tarde,Bom,Normal,1657.62,4,No prazo
+P00091,Ponta Grossa,São José dos Pinhais,189.1,Curta,253.95,Médio,Van,Tarde,Chuvoso,Normal,271.63,2,No prazo
+P00092,Londrina,União da Vitória,461.9,Média,7.01,Leve,Van,Noite,Chuvoso,Expressa,647.3,2,Atrasado
+P00093,Maringá,Jacarezinho,263.2,Média,583.43,Pesado,Van,Tarde,Bom,Expressa,784.93,2,Atrasado
+P00094,Ponta Grossa,Jandaia do Sul,359.2,Média,3.0,Leve,Moto,Tarde,Bom,Expressa,502.82,2,Atrasado
+P00095,Maringá,Francisco Beltrão,469.8,Média,26.98,Leve,Moto,Manhã,Bom,Normal,460.63,3,Atrasado
+P00096,Ponta Grossa,Paranaguá,271.7,Média,404.01,Pesado,Caminhão,Manhã,Chuvoso,Expressa,678.17,2,No prazo
+P00097,Cascavel,Mandaguari,365.1,Média,35.66,Médio,Caminhão,Manhã,Bom,Normal,367.02,3,No prazo
+P00098,Curitiba,Assis Chateaubriand,636.1,Longa,13.13,Leve,Van,Manhã,Bom,Normal,602.52,4,No prazo
+P00099,Cascavel,Pitanga,348.6,Média,246.43,Médio,Van,Manhã,Chuvoso,Normal,483.37,3,No prazo
+P00100,Cascavel,Wenceslau Braz,602.4,Longa,261.63,Médio,Van,Tarde,Bom,Normal,840.85,4,No prazo
+P00101,Curitiba,Paranaguá,97.9,Curta,108.41,Médio,Caminhão,Manhã,Chuvoso,Expressa,175.82,1,No prazo
+P00102,Londrina,Palmas,503.7,Longa,8.33,Leve,Moto,Manhã,Bom,Normal,475.88,4,Atrasado
+P00103,Curitiba,Rolândia,519.5,Longa,19.59,Leve,Van,Noite,Chuvoso,Expressa,743.8,3,Atrasado
+P00104,Maringá,Pato Branco,464.9,Média,11.63,Leve,Van,Tarde,Chuvoso,Normal,443.15,3,Atrasado
+P00105,Curitiba,Pitanga,384.9,Média,21.42,Leve,Moto,Tarde,Bom,Normal,376.25,3,No prazo
+P00106,Londrina,Antonina,567.3,Longa,2.2,Leve,Moto,Noite,Bom,Normal,527.82,4,Atrasado
+P00107,Cascavel,Palmas,307.1,Média,64.36,Médio,Van,Tarde,Bom,Normal,326.97,3,No prazo
+P00108,Cascavel,Umuarama,176.4,Curta,149.07,Médio,Caminhão,Tarde,Chuvoso,Normal,221.09,2,No prazo
+P00109,Maringá,Curitiba,517.7,Longa,1067.53,Pesado,Caminhão,Manhã,Bom,Normal,1475.71,4,No prazo
+P00110,Cascavel,Londrina,433.4,Média,1241.33,Pesado,Caminhão,Tarde,Chuvoso,Normal,1373.45,3,Atrasado
+P00111,Maringá,Palmas,486.1,Média,73.08,Médio,Van,Noite,Bom,Normal,516.43,3,No prazo
+P00112,Curitiba,Antonina,71.3,Curta,20.27,Leve,Moto,Manhã,Bom,Normal,81.77,2,No prazo
+P00113,Ponta Grossa,Maringá,405.5,Média,264.76,Médio,Van,Manhã,Bom,Normal,573.2,3,No prazo
+P00114,Londrina,Curitiba,505.5,Longa,5.75,Leve,Van,Manhã,Chuvoso,Expressa,705.27,3,Atrasado
+P00115,Curitiba,Paranaguá,97.9,Curta,28.1,Leve,Caminhão,Noite,Bom,Normal,108.06,2,No prazo
+P00116,Curitiba,Dois Vizinhos,534.1,Longa,8.12,Leve,Moto,Manhã,Bom,Expressa,747.75,3,Atrasado
+P00117,Curitiba,Bandeirantes,402.5,Média,13.33,Leve,Caminhão,Manhã,Chuvoso,Normal,386.91,3,No prazo
+P00118,Londrina,Campo Mourão,193.6,Curta,29.37,Leve,Van,Tarde,Bom,Expressa,291.71,1,No prazo
+P00119,Maringá,Santo Antônio da Platina,248.1,Curta,198.88,Médio,Van,Tarde,Bom,Normal,327.11,2,No prazo
+P00120,Maringá,Palotina,293.4,Média,1209.58,Pesado,Van,Tarde,Bom,Normal,917.86,3,Atrasado
+P00121,Ponta Grossa,Rolândia,407.3,Média,277.16,Médio,Caminhão,Manhã,Bom,Normal,584.77,3,No prazo
+P00122,Ponta Grossa,Maringá,405.5,Média,1464.98,Pesado,Caminhão,Manhã,Chuvoso,Expressa,2166.35,2,Atrasado
+P00123,Ponta Grossa,São José dos Pinhais,189.1,Curta,232.78,Médio,Caminhão,Tarde,Bom,Normal,264.42,2,No prazo
+P00124,Ponta Grossa,Pitanga,229.0,Curta,237.31,Médio,Van,Manhã,Chuvoso,Expressa,470.88,1,No prazo
+P00125,Londrina,Paranaguá,595.3,Longa,6.24,Leve,Moto,Tarde,Bom,Normal,557.46,4,Atrasado
+P00126,Maringá,Arapongas,67.3,Curta,1287.93,Pesado,Caminhão,Tarde,Bom,Expressa,339.88,1,No prazo
+P00127,Curitiba,União da Vitória,288.1,Média,16.0,Leve,Moto,Tarde,Bom,Expressa,416.38,2,Atrasado
+P00128,Ponta Grossa,Francisco Beltrão,428.2,Média,1439.02,Pesado,Caminhão,Tarde,Bom,Normal,1509.52,3,No prazo
+P00129,Londrina,Wenceslau Braz,236.9,Curta,169.85,Médio,Caminhão,Tarde,Bom,Expressa,443.46,1,No prazo
+P00130,Ponta Grossa,Laranjeiras do Sul,299.8,Média,970.36,Pesado,Van,Tarde,Bom,Expressa,1205.2,2,No prazo
+P00131,Curitiba,Prudentópolis,263.1,Média,4.37,Leve,Moto,Noite,Bom,Normal,253.86,3,Atrasado
+P00132,Cascavel,Cianorte,246.0,Curta,40.57,Médio,Van,Manhã,Chuvoso,Normal,254.36,2,No prazo
+P00133,Curitiba,Londrina,505.5,Longa,426.24,Pesado,Caminhão,Manhã,Bom,Normal,857.78,4,No prazo
+P00134,Ponta Grossa,Arapongas,390.4,Média,9.51,Leve,Moto,Manhã,Bom,Normal,373.04,3,Atrasado
+P00135,Maringá,Medianeira,410.9,Média,27.3,Leve,Caminhão,Manhã,Chuvoso,Normal,405.0,3,Atrasado
+P00136,Curitiba,Cianorte,538.3,Longa,151.35,Médio,Van,Tarde,Chuvoso,Normal,646.12,4,Atrasado
+P00137,Ponta Grossa,Pitanga,229.0,Curta,528.41,Pesado,Caminhão,Noite,Chuvoso,Normal,438.91,2,Atrasado
+P00138,Maringá,Cascavel,341.6,Média,26.3,Leve,Van,Tarde,Chuvoso,Expressa,500.41,2,No prazo
+P00139,Maringá,Matinhos,630.2,Longa,676.96,Pesado,Caminhão,Noite,Bom,Normal,1350.09,4,Atrasado
+P00140,Maringá,Palmas,486.1,Média,27.15,Leve,Moto,Tarde,Bom,Normal,476.25,3,No prazo
+P00141,Ponta Grossa,Lapa,114.0,Curta,24.52,Leve,Van,Tarde,Bom,Normal,122.63,2,No prazo
+P00142,Cascavel,Cornélio Procópio,504.6,Longa,22.06,Leve,Van,Manhã,Bom,Expressa,726.26,3,Atrasado
+P00143,Ponta Grossa,Palmas,329.4,Média,14.28,Leve,Van,Tarde,Bom,Normal,319.93,3,Atrasado
+P00144,Curitiba,Palotina,671.0,Longa,313.28,Pesado,Van,Manhã,Chuvoso,Normal,997.28,4,Atrasado
+P00145,Ponta Grossa,Umuarama,491.2,Média,78.15,Médio,Caminhão,Manhã,Chuvoso,Expressa,781.77,2,Atrasado
+P00146,Ponta Grossa,Maringá,405.5,Média,1.47,Leve,Van,Manhã,Bom,Normal,381.02,3,No prazo
+P00147,Londrina,Laranjeiras do Sul,359.0,Média,1.73,Leve,Moto,Tarde,Bom,Normal,339.22,3,Atrasado
+P00148,Londrina,Foz do Iguaçu,569.5,Longa,9.22,Leve,Moto,Manhã,Chuvoso,Expressa,798.0,3,Atrasado
+P00149,Curitiba,Mandaguari,479.5,Média,26.5,Leve,Van,Noite,Bom,Expressa,696.63,2,Atrasado
+P00150,Londrina,Foz do Iguaçu,569.5,Longa,11.29,Leve,Moto,Noite,Bom,Expressa,801.19,3,Atrasado
+P00151,Curitiba,Irati,206.4,Curta,3.7,Leve,Van,Manhã,Bom,Normal,202.13,2,No prazo
+P00152,Ponta Grossa,Antonina,243.7,Curta,21.68,Leve,Moto,Tarde,Chuvoso,Expressa,358.26,1,No prazo
+P00153,Londrina,Cascavel,433.4,Média,66.07,Médio,Van,Tarde,Bom,Normal,456.6,3,No prazo
+P00154,Curitiba,Toledo,689.2,Longa,5.66,Leve,Van,Tarde,Bom,Normal,642.3,4,No prazo
+P00155,Cascavel,Maringá,341.6,Média,222.58,Médio,Caminhão,Manhã,Bom,Normal,459.3,3,No prazo
+P00156,Ponta Grossa,Goioerê,447.9,Média,13.69,Leve,Van,Manhã,Chuvoso,Expressa,636.23,2,No prazo
+P00157,Londrina,Goioerê,281.2,Média,138.35,Médio,Caminhão,Tarde,Bom,Normal,338.11,3,No prazo
+P00158,Curitiba,Rolândia,519.5,Longa,1.12,Leve,Moto,Tarde,Bom,Normal,483.6,4,Atrasado
+P00159,Ponta Grossa,Dois Vizinhos,396.8,Média,258.65,Médio,Van,Noite,Bom,Normal,556.86,3,No prazo
+P00160,Cascavel,Laranjeiras do Sul,221.8,Curta,8.95,Leve,Van,Noite,Bom,Normal,218.19,2,No prazo
+P00161,Ponta Grossa,Castro,48.3,Curta,305.05,Pesado,Caminhão,Tarde,Chuvoso,Normal,84.99,2,No prazo
+P00162,Londrina,Palotina,389.7,Média,17.09,Leve,Van,Tarde,Bom,Normal,377.72,3,No prazo
+P00163,Cascavel,Marechal Cândido Rondon,97.5,Curta,10.3,Leve,Van,Manhã,Bom,Expressa,149.34,1,No prazo
+P00164,Maringá,Londrina,103.1,Curta,234.45,Médio,Van,Manhã,Bom,Expressa,219.45,1,No prazo
+P00165,Maringá,Ponta Grossa,405.5,Média,18.72,Leve,Moto,Manhã,Chuvoso,Expressa,582.92,2,Atrasado
+P00166,Londrina,Guarapuava,331.4,Média,25.5,Leve,Caminhão,Manhã,Bom,Normal,328.47,3,No prazo
+P00167,Maringá,Marechal Cândido Rondon,336.3,Média,5.17,Leve,Van,Manhã,Chuvoso,Expressa,473.7,2,Atrasado
+P00168,Cascavel,Rolândia,412.2,Média,4.43,Leve,Van,Tarde,Bom,Normal,389.27,3,No prazo
+P00169,Ponta Grossa,Toledo,571.6,Longa,12.19,Leve,Caminhão,Manhã,Chuvoso,Normal,541.98,4,Atrasado
+P00170,Curitiba,Cornélio Procópio,437.2,Média,409.05,Pesado,Caminhão,Noite,Bom,Normal,730.39,3,No prazo
+P00171,Londrina,Cianorte,198.7,Curta,109.48,Médio,Caminhão,Tarde,Bom,Normal,232.99,2,No prazo
+P00172,Maringá,Dois Vizinhos,438.4,Média,4.94,Leve,Moto,Tarde,Bom,Expressa,612.69,2,Atrasado
+P00173,Londrina,Jandaia do Sul,77.2,Curta,140.98,Médio,Van,Noite,Chuvoso,Normal,104.07,2,Atrasado
+P00174,Curitiba,Apucarana,482.5,Média,170.85,Médio,Van,Manhã,Bom,Normal,597.63,3,No prazo
+P00175,Londrina,Mandaguari,75.2,Curta,23.08,Leve,Moto,Tarde,Chuvoso,Normal,85.8,2,No prazo
+P00176,Cascavel,Londrina,433.4,Média,29.68,Leve,Van,Noite,Bom,Expressa,634.82,2,Atrasado
+P00177,Londrina,Ibiporã,16.5,Curta,11.31,Leve,Moto,Tarde,Bom,Normal,30.19,2,No prazo
+P00178,Curitiba,Rolândia,519.5,Longa,9.08,Leve,Van,Noite,Bom,Normal,491.04,4,Atrasado
+P00179,Cascavel,Ponta Grossa,521.6,Longa,1024.56,Pesado,Caminhão,Manhã,Bom,Normal,1446.38,4,No prazo
+P00180,Ponta Grossa,Rio Negro,162.6,Curta,17.2,Leve,Caminhão,Manhã,Bom,Expressa,242.06,1,No prazo
+P00181,Maringá,Ibiporã,119.1,Curta,21.7,Leve,Caminhão,Tarde,Chuvoso,Normal,126.84,2,No prazo
+P00182,Londrina,Mandaguari,75.2,Curta,233.91,Médio,Van,Noite,Bom,Expressa,164.01,1,No prazo
+P00183,Maringá,Telêmaco Borba,279.8,Média,1.35,Leve,Moto,Tarde,Bom,Normal,267.5,3,Atrasado
+P00184,Maringá,Rio Negro,536.1,Longa,18.83,Leve,Van,Manhã,Bom,Expressa,765.99,3,Atrasado
+P00185,Londrina,Foz do Iguaçu,569.5,Longa,154.31,Médio,Van,Noite,Bom,Normal,685.74,4,No prazo
+P00186,Curitiba,Palotina,671.0,Longa,22.36,Leve,Van,Noite,Chuvoso,Normal,645.91,4,No prazo
+P00187,Londrina,Arapongas,37.7,Curta,676.89,Pesado,Caminhão,Manhã,Bom,Expressa,134.8,1,No prazo
+P00188,Londrina,Guarapuava,331.4,Média,59.98,Médio,Van,Tarde,Bom,Normal,349.04,3,No prazo
+P00189,Ponta Grossa,São José dos Pinhais,189.1,Curta,11.94,Leve,Moto,Noite,Chuvoso,Normal,189.25,2,No prazo
+P00190,Cascavel,Ivaiporã,337.0,Média,29.54,Leve,Moto,Manhã,Bom,Expressa,496.82,2,No prazo
+P00191,Maringá,Palotina,293.4,Média,14.85,Leve,Moto,Tarde,Chuvoso,Expressa,422.85,2,Atrasado
+P00192,Cascavel,Maringá,341.6,Média,123.21,Médio,Van,Manhã,Bom,Expressa,589.8,2,No prazo
+P00193,Cascavel,Curitiba,658.9,Longa,1114.18,Pesado,Caminhão,Tarde,Bom,Normal,1929.45,4,No prazo
+P00194,Maringá,Morretes,567.5,Longa,2.55,Leve,Moto,Tarde,Bom,Normal,528.36,4,Atrasado
+P00195,Ponta Grossa,Londrina,420.2,Média,84.04,Médio,Van,Manhã,Chuvoso,Normal,456.74,3,Atrasado
+P00196,Londrina,Maringá,103.1,Curta,9.73,Leve,Moto,Noite,Chuvoso,Normal,109.6,2,Atrasado
+P00197,Cascavel,Cambé,423.6,Média,29.3,Leve,Van,Noite,Bom,Expressa,620.37,2,Atrasado
+P00198,Ponta Grossa,Marechal Cândido Rondon,594.8,Longa,14.72,Leve,Moto,Tarde,Bom,Expressa,841.62,3,Atrasado
+P00199,Cascavel,Dois Vizinhos,124.8,Curta,81.13,Médio,Caminhão,Tarde,Chuvoso,Normal,145.55,2,No prazo
+P00200,Maringá,Curitiba,517.7,Longa,3.19,Leve,Moto,Noite,Chuvoso,Normal,483.9,4,Atrasado
+P00201,Maringá,Cascavel,341.6,Média,21.99,Leve,Van,Manhã,Chuvoso,Normal,335.96,3,Atrasado
+P00202,Ponta Grossa,Palmas,329.4,Média,29.05,Leve,Moto,Manhã,Bom,Normal,328.68,3,Atrasado
+P00203,Cascavel,União da Vitória,429.6,Média,15.53,Leve,Caminhão,Tarde,Bom,Expressa,612.97,2,Atrasado
+P00204,Londrina,Palotina,389.7,Média,5.49,Leve,Moto,Tarde,Bom,Expressa,546.88,2,Atrasado
+P00205,Ponta Grossa,Laranjeiras do Sul,299.8,Média,2.55,Leve,Van,Manhã,Bom,Expressa,421.79,2,No prazo
+P00206,Londrina,Palotina,389.7,Média,27.01,Leve,Moto,Noite,Bom,Expressa,569.52,2,Atrasado
+P00207,Maringá,Jacarezinho,263.2,Média,35.41,Médio,Caminhão,Tarde,Bom,Normal,268.65,3,No prazo
+P00208,Curitiba,Marechal Cândido Rondon,709.4,Longa,24.8,Leve,Moto,Tarde,Chuvoso,Normal,685.12,4,Atrasado
+P00209,Cascavel,Palmas,307.1,Média,479.15,Pesado,Caminhão,Manhã,Chuvoso,Normal,556.25,3,No prazo
+P00210,Ponta Grossa,Francisco Beltrão,428.2,Média,30.22,Médio,Caminhão,Tarde,Chuvoso,Normal,423.67,3,Atrasado
+P00211,Cascavel,Castro,569.9,Longa,13.51,Leve,Moto,Noite,Chuvoso,Normal,541.77,4,Atrasado
+P00212,Londrina,Cambé,15.2,Curta,116.34,Médio,Caminhão,Manhã,Bom,Expressa,40.29,1,No prazo
+P00213,Cascavel,Palotina,109.1,Curta,1.84,Leve,Moto,Manhã,Bom,Normal,113.55,2,No prazo
+P00214,Maringá,Jandaia do Sul,46.3,Curta,27.41,Leve,Van,Manhã,Bom,Expressa,80.93,1,No prazo
+P00215,Cascavel,Dois Vizinhos,124.8,Curta,157.86,Médio,Van,Tarde,Bom,Expressa,236.67,1,No prazo
+P00216,Londrina,Matinhos,618.0,Longa,7.48,Leve,Moto,Tarde,Bom,Normal,579.52,4,No prazo
+P00217,Maringá,Foz do Iguaçu,477.7,Média,8.58,Leve,Moto,Manhã,Bom,Expressa,670.96,2,Atrasado
+P00218,Curitiba,Arapongas,502.6,Longa,20.92,Leve,Moto,Tarde,Bom,Expressa,721.89,3,Atrasado
+P00219,Londrina,Cianorte,198.7,Curta,881.13,Pesado,Caminhão,Tarde,Bom,Expressa,755.96,1,No prazo
+P00220,Curitiba,Jandaia do Sul,471.4,Média,53.8,Médio,Caminhão,Tarde,Bom,Normal,484.91,3,No prazo
+P00221,Ponta Grossa,Pato Branco,374.5,Média,285.02,Médio,Van,Manhã,Bom,Normal,544.18,3,Atrasado
+P00222,Maringá,Assis Chateaubriand,263.0,Média,18.07,Leve,Moto,Manhã,Bom,Normal,260.25,3,No prazo
+P00223,Maringá,Mandaguari,39.1,Curta,279.37,Médio,Van,Manhã,Bom,Expressa,97.28,1,No prazo
+P00224,Ponta Grossa,Lapa,114.0,Curta,21.33,Leve,Moto,Manhã,Bom,Expressa,175.46,1,No prazo
+P00225,Maringá,Guarapuava,313.8,Média,29.74,Leve,Moto,Manhã,Bom,Normal,314.22,3,Atrasado
+P00226,Maringá,Santo Antônio da Platina,248.1,Curta,666.31,Pesado,Caminhão,Tarde,Bom,Expressa,796.27,1,No prazo
+P00227,Ponta Grossa,Dois Vizinhos,396.8,Média,16.3,Leve,Moto,Tarde,Bom,Normal,383.76,3,Atrasado
+P00228,Ponta Grossa,Campo Mourão,360.3,Média,15.37,Leve,Van,Manhã,Chuvoso,Normal,349.24,3,No prazo
+P00229,Curitiba,Maringá,517.7,Longa,22.81,Leve,Van,Noite,Bom,Normal,502.19,4,No prazo
+P00230,Maringá,Irati,393.1,Média,9.65,Leve,Van,Manhã,Bom,Normal,375.61,3,No prazo
+P00231,Maringá,Lapa,519.5,Longa,802.23,Pesado,Caminhão,Manhã,Bom,Normal,1232.72,4,No prazo
+P00232,Cascavel,Rolândia,412.2,Média,145.96,Médio,Caminhão,Tarde,Bom,Expressa,733.91,2,Atrasado
+P00233,Cascavel,Dois Vizinhos,124.8,Curta,1128.68,Pesado,Caminhão,Tarde,Bom,Expressa,563.8,1,No prazo
+P00234,Londrina,Umuarama,294.5,Média,98.57,Médio,Caminhão,Manhã,Chuvoso,Expressa,490.95,2,Atrasado
+P00235,Cascavel,Colombo,675.2,Longa,29.31,Leve,Moto,Manhã,Chuvoso,Normal,658.31,4,Atrasado
+P00236,Londrina,Ibiporã,16.5,Curta,4.89,Leve,Moto,Manhã,Bom,Expressa,37.49,1,No prazo
+P00237,Londrina,Cascavel,433.4,Média,108.19,Médio,Caminhão,Manhã,Bom,Normal,489.46,3,No prazo
+P00238,Londrina,Arapongas,37.7,Curta,23.02,Leve,Van,Manhã,Bom,Normal,50.49,2,No prazo
+P00239,Ponta Grossa,Guaratuba,285.3,Média,150.67,Médio,Van,Noite,Chuvoso,Normal,349.15,3,Atrasado
+P00240,Cascavel,Santo Antônio da Platina,578.8,Longa,1265.86,Pesado,Caminhão,Manhã,Bom,Normal,1854.74,4,No prazo
+P00241,Londrina,Apucarana,52.8,Curta,232.81,Médio,Caminhão,Manhã,Chuvoso,Normal,84.65,2,No prazo
+P00242,Cascavel,Cambé,423.6,Média,1377.65,Pesado,Van,Tarde,Bom,Normal,1446.67,3,No prazo
+P00243,Maringá,Cornélio Procópio,173.9,Curta,0.97,Leve,Caminhão,Noite,Bom,Normal,171.81,2,No prazo
+P00244,Curitiba,Arapongas,502.6,Longa,5.88,Leve,Van,Noite,Bom,Expressa,701.48,3,Atrasado
+P00245,Cascavel,Palotina,109.1,Curta,216.93,Médio,Moto,Manhã,Bom,Normal,155.79,2,No prazo
+P00246,Ponta Grossa,Assis Chateaubriand,521.5,Longa,23.87,Leve,Caminhão,Manhã,Chuvoso,Normal,506.75,4,Atrasado
+P00247,Cascavel,Telêmaco Borba,476.8,Média,242.32,Médio,Van,Noite,Bom,Expressa,970.63,2,Atrasado
+P00248,Curitiba,Palmas,410.6,Média,236.06,Médio,Van,Manhã,Chuvoso,Normal,559.01,3,Atrasado
+P00249,Ponta Grossa,Cambé,416.7,Média,18.99,Leve,Moto,Manhã,Bom,Normal,404.27,3,Atrasado
+P00250,Cascavel,Prudentópolis,414.4,Média,71.09,Médio,Caminhão,Manhã,Bom,Expressa,653.99,2,Atrasado
+P00251,Maringá,Jandaia do Sul,46.3,Curta,2.39,Leve,Van,Manhã,Bom,Normal,56.87,2,No prazo
+P00252,Curitiba,Guarapuava,313.2,Média,207.91,Médio,Van,Manhã,Chuvoso,Normal,414.09,3,No prazo
+P00253,Cascavel,União da Vitória,429.6,Média,158.29,Médio,Caminhão,Noite,Bom,Normal,524.04,3,No prazo
+P00254,Curitiba,Arapongas,502.6,Longa,1031.65,Pesado,Caminhão,Manhã,Chuvoso,Expressa,2093.48,3,Atrasado
+P00255,Ponta Grossa,Irati,83.5,Curta,317.01,Pesado,Caminhão,Noite,Bom,Expressa,199.2,1,No prazo
+P00256,Cascavel,União da Vitória,429.6,Média,137.41,Médio,Caminhão,Manhã,Bom,Expressa,754.34,2,No prazo
+P00257,Curitiba,Rio Negro,119.8,Curta,2.93,Leve,Van,Tarde,Bom,Normal,123.45,2,No prazo
+P00258,Maringá,Cornélio Procópio,173.9,Curta,12.99,Leve,Moto,Manhã,Chuvoso,Normal,175.57,2,No prazo
+P00259,Maringá,Paranaguá,607.5,Longa,10.84,Leve,Van,Tarde,Bom,Normal,573.6,4,No prazo
+P00260,Ponta Grossa,Guarapuava,175.9,Curta,1397.05,Pesado,Caminhão,Noite,Bom,Expressa,915.97,1,No prazo
+P00261,Cascavel,Bandeirantes,543.2,Longa,886.96,Pesado,Van,Manhã,Bom,Normal,1371.12,4,Atrasado
+P00262,Ponta Grossa,Arapongas,390.4,Média,1431.07,Pesado,Caminhão,Tarde,Chuvoso,Normal,1372.0,3,No prazo
+P00263,Ponta Grossa,Ivaiporã,265.5,Média,1305.1,Pesado,Caminhão,Manhã,Bom,Normal,877.66,3,No prazo
+P00264,Cascavel,Guarapuava,345.7,Média,27.48,Leve,Moto,Manhã,Bom,Normal,343.23,3,No prazo
+P00265,Curitiba,Ivaiporã,377.7,Média,11.81,Leve,Van,Manhã,Bom,Normal,362.96,3,No prazo
+P00266,Maringá,Irati,393.1,Média,1207.74,Pesado,Caminhão,Tarde,Bom,Normal,1223.36,3,No prazo
+P00267,Cascavel,Campo Mourão,239.8,Curta,13.85,Leve,Moto,Manhã,Chuvoso,Expressa,347.7,1,No prazo
+P00268,Londrina,Paranavaí,188.7,Curta,982.15,Pesado,Caminhão,Manhã,Bom,Normal,518.43,2,No prazo
+P00269,Curitiba,São José dos Pinhais,18.0,Curta,102.38,Médio,Van,Manhã,Bom,Normal,34.52,2,No prazo
+P00270,Curitiba,Lapa,77.5,Curta,511.63,Pesado,Caminhão,Tarde,Chuvoso,Normal,156.12,2,No prazo
+P00271,Maringá,Rolândia,77.0,Curta,187.4,Médio,Van,Manhã,Bom,Expressa,157.91,1,No prazo
+P00272,Curitiba,Medianeira,683.8,Longa,1299.09,Pesado,Caminhão,Manhã,Bom,Normal,2229.39,4,No prazo
+P00273,Curitiba,União da Vitória,288.1,Média,88.09,Médio,Van,Manhã,Bom,Expressa,472.45,2,No prazo
+P00274,Curitiba,Medianeira,683.8,Longa,189.91,Médio,Moto,Manhã,Chuvoso,Normal,864.17,4,Atrasado
+P00275,Maringá,Guarapuava,313.8,Média,1175.95,Pesado,Caminhão,Manhã,Bom,Normal,961.64,3,No prazo
+P00276,Cascavel,Rio Negro,595.5,Longa,21.75,Leve,Van,Noite,Bom,Normal,574.26,4,Atrasado
+P00277,Londrina,Guaratuba,619.7,Longa,4.94,Leve,Moto,Noite,Chuvoso,Normal,578.24,4,Atrasado
+P00278,Londrina,Campo Mourão,193.6,Curta,27.33,Leve,Moto,Manhã,Bom,Normal,198.76,2,No prazo
+P00279,Curitiba,Umuarama,605.8,Longa,7.07,Leve,Van,Tarde,Bom,Normal,567.93,4,Atrasado
+P00280,Ponta Grossa,Curitiba,181.9,Curta,119.34,Médio,Caminhão,Manhã,Bom,Normal,217.78,2,No prazo
+P00281,Londrina,Laranjeiras do Sul,359.0,Média,20.75,Leve,Moto,Noite,Bom,Expressa,519.76,2,Atrasado
+P00282,Ponta Grossa,Toledo,571.6,Longa,390.39,Pesado,Van,Tarde,Bom,Normal,931.1,4,Atrasado
+P00283,Londrina,Colombo,497.8,Média,3.99,Leve,Moto,Tarde,Chuvoso,Expressa,692.39,2,Atrasado
+P00284,Ponta Grossa,Wenceslau Braz,183.3,Curta,193.34,Médio,Van,Tarde,Chuvoso,Normal,243.76,2,No prazo
+P00285,Cascavel,União da Vitória,429.6,Média,2.05,Leve,Moto,Noite,Bom,Normal,403.22,3,Atrasado
+P00286,Londrina,Cianorte,198.7,Curta,12.63,Leve,Moto,Manhã,Bom,Expressa,290.02,1,No prazo
+P00287,Cascavel,Toledo,50.0,Curta,198.26,Médio,Van,Noite,Chuvoso,Normal,77.84,2,No prazo
+P00288,Curitiba,Jandaia do Sul,471.4,Média,8.79,Leve,Van,Manhã,Bom,Normal,446.72,3,No prazo
+P00289,Maringá,Campo Mourão,107.9,Curta,24.44,Leve,Van,Noite,Chuvoso,Expressa,167.78,1,No prazo
+P00290,Maringá,Wenceslau Braz,339.5,Média,11.15,Leve,Van,Manhã,Bom,Normal,327.36,3,No prazo
+P00291,Maringá,Telêmaco Borba,279.8,Média,673.24,Pesado,Caminhão,Tarde,Bom,Normal,605.89,3,No prazo
+P00292,Ponta Grossa,Lapa,114.0,Curta,961.05,Pesado,Van,Manhã,Bom,Normal,314.81,2,No prazo
+P00293,Curitiba,Wenceslau Braz,268.6,Média,477.78,Pesado,Caminhão,Tarde,Bom,Normal,487.74,3,No prazo
+P00294,Ponta Grossa,Pitanga,229.0,Curta,19.78,Leve,Moto,Manhã,Bom,Normal,229.25,2,No prazo
+P00295,Londrina,Rolândia,26.1,Curta,1376.09,Pesado,Caminhão,Manhã,Bom,Expressa,147.21,1,No prazo
+P00296,Ponta Grossa,Campo Mourão,360.3,Média,96.81,Médio,Van,Manhã,Bom,Normal,402.06,3,No prazo
+P00297,Londrina,Cambé,15.2,Curta,56.43,Médio,Van,Manhã,Bom,Normal,30.22,2,No prazo
+P00298,Curitiba,Guaratuba,114.2,Curta,1.66,Leve,Van,Manhã,Chuvoso,Normal,118.12,2,Atrasado
+P00299,Londrina,Matinhos,618.0,Longa,1116.55,Pesado,Caminhão,Manhã,Bom,Normal,1813.25,4,Atrasado
+P00300,Maringá,Matinhos,630.2,Longa,22.63,Leve,Moto,Manhã,Bom,Normal,607.85,4,No prazo

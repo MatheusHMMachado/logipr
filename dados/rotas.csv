@@ -1,0 +1,156 @@
+origem,destino,distancia_km
+Curitiba,São José dos Pinhais,18.0
+Colombo,Curitiba,19.0
+Curitiba,Morretes,56.7
+Antonina,Curitiba,71.3
+Curitiba,Lapa,77.5
+Castro,Ponta Grossa,48.3
+Irati,Ponta Grossa,83.5
+Ponta Grossa,Prudentópolis,107.2
+Lapa,Ponta Grossa,114.0
+Ponta Grossa,Telêmaco Borba,125.7
+Cambé,Londrina,15.2
+Ibiporã,Londrina,16.5
+Londrina,Rolândia,26.1
+Arapongas,Londrina,37.7
+Apucarana,Londrina,52.8
+Mandaguari,Maringá,39.1
+Jandaia do Sul,Maringá,46.3
+Apucarana,Maringá,65.0
+Arapongas,Maringá,67.3
+Maringá,Rolândia,77.0
+Cascavel,Toledo,50.0
+Assis Chateaubriand,Cascavel,78.6
+Cascavel,Medianeira,96.6
+Cascavel,Marechal Cândido Rondon,97.5
+Cascavel,Palotina,109.1
+Foz do Iguaçu,Medianeira,72.9
+Foz do Iguaçu,Marechal Cândido Rondon,158.2
+Foz do Iguaçu,Toledo,161.6
+Cascavel,Foz do Iguaçu,169.5
+Dois Vizinhos,Foz do Iguaçu,200.9
+Guarapuava,Prudentópolis,68.7
+Guarapuava,Pitanga,99.2
+Guarapuava,Irati,106.8
+Guarapuava,Laranjeiras do Sul,123.9
+Guarapuava,União da Vitória,130.5
+Antonina,Paranaguá,28.0
+Morretes,Paranaguá,41.2
+Matinhos,Paranaguá,44.6
+Guaratuba,Paranaguá,53.3
+Paranaguá,São José dos Pinhais,88.8
+Colombo,São José dos Pinhais,34.7
+Morretes,São José dos Pinhais,48.8
+Antonina,São José dos Pinhais,64.6
+Lapa,São José dos Pinhais,75.1
+Colombo,Morretes,57.5
+Antonina,Colombo,69.5
+Colombo,Lapa,93.8
+Apucarana,Arapongas,20.1
+Apucarana,Jandaia do Sul,25.1
+Apucarana,Mandaguari,27.5
+Apucarana,Rolândia,37.0
+Apucarana,Cambé,46.4
+Arapongas,Rolândia,17.2
+Arapongas,Cambé,27.9
+Arapongas,Mandaguari,37.5
+Marechal Cândido Rondon,Toledo,48.1
+Assis Chateaubriand,Toledo,53.1
+Palotina,Toledo,64.6
+Medianeira,Toledo,94.9
+Campo Mourão,Cianorte,63.4
+Campo Mourão,Goioerê,87.6
+Campo Mourão,Ivaiporã,97.2
+Campo Mourão,Maringá,107.9
+Campo Mourão,Jandaia do Sul,116.4
+Goioerê,Umuarama,71.9
+Cianorte,Umuarama,95.8
+Assis Chateaubriand,Umuarama,97.8
+Palotina,Umuarama,102.0
+Campo Mourão,Umuarama,130.9
+Francisco Beltrão,Pato Branco,54.1
+Dois Vizinhos,Pato Branco,86.6
+Palmas,Pato Branco,95.7
+Laranjeiras do Sul,Pato Branco,123.5
+Guarapuava,Pato Branco,198.6
+Dois Vizinhos,Francisco Beltrão,49.3
+Francisco Beltrão,Laranjeiras do Sul,128.4
+Francisco Beltrão,Palmas,149.7
+Cascavel,Francisco Beltrão,170.9
+Cianorte,Paranavaí,85.7
+Cianorte,Goioerê,93.8
+Cianorte,Maringá,95.6
+Maringá,Paranavaí,85.6
+Mandaguari,Paranavaí,124.5
+Jandaia do Sul,Paranavaí,131.9
+Campo Mourão,Paranavaí,139.9
+Castro,Telêmaco Borba,104.3
+Telêmaco Borba,Wenceslau Braz,125.6
+Prudentópolis,Telêmaco Borba,136.5
+Ivaiporã,Telêmaco Borba,139.8
+Castro,Colombo,125.9
+Castro,Irati,129.1
+Castro,Curitiba,133.6
+Palmas,União da Vitória,122.5
+Irati,União da Vitória,123.4
+Prudentópolis,União da Vitória,147.6
+Rio Negro,União da Vitória,168.3
+Irati,Prudentópolis,56.7
+Irati,Lapa,128.9
+Bandeirantes,Cornélio Procópio,38.7
+Cornélio Procópio,Ibiporã,54.8
+Cornélio Procópio,Londrina,71.2
+Cornélio Procópio,Santo Antônio da Platina,77.2
+Cambé,Cornélio Procópio,84.8
+Jacarezinho,Santo Antônio da Platina,24.4
+Bandeirantes,Jacarezinho,53.2
+Cornélio Procópio,Jacarezinho,89.9
+Jacarezinho,Wenceslau Braz,105.8
+Ibiporã,Jacarezinho,144.1
+Bandeirantes,Santo Antônio da Platina,47.0
+Santo Antônio da Platina,Wenceslau Braz,91.4
+Ibiporã,Santo Antônio da Platina,129.0
+Pitanga,Prudentópolis,121.8
+Laranjeiras do Sul,Palmas,165.0
+Guarapuava,Palmas,172.3
+Lapa,Rio Negro,48.6
+Rio Negro,São José dos Pinhais,112.4
+Curitiba,Rio Negro,119.8
+Colombo,Rio Negro,137.9
+Irati,Rio Negro,143.0
+Dois Vizinhos,Laranjeiras do Sul,97.0
+Laranjeiras do Sul,Pitanga,126.8
+Marechal Cândido Rondon,Medianeira,107.2
+Assis Chateaubriand,Medianeira,147.9
+Marechal Cândido Rondon,Palotina,48.4
+Assis Chateaubriand,Marechal Cândido Rondon,73.3
+Ivaiporã,Pitanga,74.6
+Ivaiporã,Jandaia do Sul,93.7
+Ivaiporã,Mandaguari,101.8
+Apucarana,Ivaiporã,104.8
+Jandaia do Sul,Mandaguari,8.9
+Arapongas,Jandaia do Sul,39.5
+Jandaia do Sul,Rolândia,56.0
+Mandaguari,Rolândia,52.8
+Cambé,Rolândia,12.4
+Ibiporã,Rolândia,42.1
+Cambé,Ibiporã,30.3
+Arapongas,Ibiporã,54.1
+Bandeirantes,Ibiporã,93.4
+Bandeirantes,Londrina,109.8
+Bandeirantes,Wenceslau Braz,133.9
+Castro,Wenceslau Braz,135.0
+Campo Mourão,Pitanga,131.3
+Assis Chateaubriand,Goioerê,73.6
+Goioerê,Palotina,108.5
+Assis Chateaubriand,Palotina,46.0
+Cascavel,Dois Vizinhos,124.8
+Dois Vizinhos,Medianeira,149.7
+Guaratuba,Matinhos,9.1
+Antonina,Guaratuba,66.7
+Guaratuba,Morretes,67.9
+Guaratuba,São José dos Pinhais,96.2
+Antonina,Matinhos,59.9
+Matinhos,Morretes,62.7
+Matinhos,São José dos Pinhais,95.1
+Antonina,Morretes,15.9

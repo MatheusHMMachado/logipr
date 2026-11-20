@@ -1,0 +1,4 @@
+Algoritmo,Consultas,Trechos (média),Custo km (média),"Excesso vs. ótimo (km, média)",% rotas de menor km,% rotas com menos trechos,Vértices visitados (média),Arestas examinadas (média),"Tempo (ms, média)"
+BFS,245,3.59,377.2,19.7,44.9,100.0,18.2,105.0,0.055
+DFS,245,20.34,1756.4,1399.0,3.7,3.7,26.0,77.4,0.063
+Dijkstra,245,3.77,357.5,0.0,100.0,82.0,26.0,156.9,0.181

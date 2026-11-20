@@ -1,0 +1,61 @@
+algoritmo,tempo_s,comparacoes,trocas_movimentacoes,memoria_pico_kb,profundidade_max,n,cenario,chave
+Heap Sort,0.0005086000019218773,1018,572,0.8,,100,Aleatório,valor_frete
+Quick Sort (mediana de 3),0.00025379999715369195,725,306,0.9,10,100,Aleatório,valor_frete
+Quick Sort (pivô último),0.00019099999917671084,666,204,0.9,12,100,Aleatório,valor_frete
+Merge Sort,0.0004306999981054105,547,672,1.6,,100,Aleatório,valor_frete
+Heap Sort,0.00043420000292826444,1081,640,0.8,,100,Ordenado,valor_frete
+Quick Sort (mediana de 3),0.00025119999918388203,669,126,1.0,6,100,Ordenado,valor_frete
+Quick Sort (pivô último),0.001065199998265598,4950,0,0.9,99,100,Ordenado,valor_frete
+Merge Sort,0.0002099999983329326,356,672,1.7,,100,Ordenado,valor_frete
+Heap Sort,0.0002967999971588142,944,516,0.9,,100,Inverso,valor_frete
+Quick Sort (mediana de 3),0.00023050000163493678,868,362,1.0,11,100,Inverso,valor_frete
+Quick Sort (pivô último),0.0011260000028414652,4950,50,0.9,99,100,Inverso,valor_frete
+Merge Sort,0.00024899999698391184,316,672,1.7,,100,Inverso,valor_frete
+Heap Sort,0.0024878000040189363,7446,4044,4.0,,500,Aleatório,valor_frete
+Quick Sort (mediana de 3),0.001965299998119008,4862,2178,4.1,13,500,Aleatório,valor_frete
+Quick Sort (pivô último),0.0013419999959296547,4875,2035,4.1,18,500,Aleatório,valor_frete
+Merge Sort,0.0019148999999742955,3868,4488,7.9,,500,Aleatório,valor_frete
+Heap Sort,0.0030192999984137714,7755,4357,4.0,,500,Ordenado,valor_frete
+Quick Sort (mediana de 3),0.0010425000000395812,4267,510,4.1,9,500,Ordenado,valor_frete
+Quick Sort (pivô último),0.03074699999706354,124750,0,4.1,499,500,Ordenado,valor_frete
+Merge Sort,0.0017261999964830466,2272,4488,8.0,,500,Ordenado,valor_frete
+Heap Sort,0.002646400003868621,7007,3674,4.0,,500,Inverso,valor_frete
+Quick Sort (mediana de 3),0.0019290999989607371,6794,2727,4.1,17,500,Inverso,valor_frete
+Quick Sort (pivô último),0.029269300001033116,123288,253,4.1,493,500,Inverso,valor_frete
+Merge Sort,0.0020442000022740103,2217,4488,8.0,,500,Inverso,valor_frete
+Heap Sort,0.006107900000642985,16877,9078,7.9,,1000,Aleatório,valor_frete
+Quick Sort (mediana de 3),0.003220600003260188,11056,5604,8.1,16,1000,Aleatório,valor_frete
+Quick Sort (pivô último),0.0030486000032396987,10382,4810,8.0,20,1000,Aleatório,valor_frete
+Merge Sort,0.004205000004731119,8706,9976,15.8,,1000,Aleatório,valor_frete
+Heap Sort,0.006891799996083137,17579,9709,7.9,,1000,Ordenado,valor_frete
+Quick Sort (mediana de 3),0.002667299995664507,9536,1029,8.1,10,1000,Ordenado,valor_frete
+Quick Sort (pivô último),0.13679470000352012,499500,0,8.0,999,1000,Ordenado,valor_frete
+Merge Sort,0.004842499998630956,5044,9976,15.8,,1000,Ordenado,valor_frete
+Heap Sort,0.0053842999986954965,15965,8316,7.9,,1000,Inverso,valor_frete
+Quick Sort (mediana de 3),0.0044056999977328815,15865,6364,8.1,20,1000,Inverso,valor_frete
+Quick Sort (pivô último),0.1168281999998726,495342,505,8.0,989,1000,Inverso,valor_frete
+Merge Sort,0.004101400001673028,4937,9976,15.8,,1000,Inverso,valor_frete
+Heap Sort,0.04634060000535101,107727,57158,39.2,,5000,Aleatório,valor_frete
+Quick Sort (mediana de 3),0.023886199996923096,66464,30522,39.4,18,5000,Aleatório,valor_frete
+Quick Sort (pivô último),0.021689199995307717,65830,30305,39.3,28,5000,Aleatório,valor_frete
+Merge Sort,0.03194680000160588,55230,61808,78.3,,5000,Aleatório,valor_frete
+Heap Sort,0.052445500004978385,112135,60714,39.2,,5000,Ordenado,valor_frete
+Quick Sort (mediana de 3),0.01889880000089761,60690,5908,39.3,12,5000,Ordenado,valor_frete
+Quick Sort (pivô último),3.960239400003047,12497500,0,39.2,4999,5000,Ordenado,valor_frete
+Merge Sort,0.035545500002626795,32004,61808,78.3,,5000,Ordenado,valor_frete
+Heap Sort,0.09194320000096923,103216,53411,39.2,,5000,Inverso,valor_frete
+Quick Sort (mediana de 3),0.039351799998257775,106524,42143,39.3,27,5000,Inverso,valor_frete
+Quick Sort (pivô último),4.224573599996802,12152684,2570,39.2,4855,5000,Inverso,valor_frete
+Merge Sort,0.04238719999557361,29885,61808,78.3,,5000,Inverso,valor_frete
+Heap Sort,0.12493349999567727,235477,124310,78.2,,10000,Aleatório,valor_frete
+Quick Sort (mediana de 3),0.06295850000606151,147845,65025,78.4,21,10000,Aleatório,valor_frete
+Quick Sort (pivô último),0.1169850000005681,157188,75836,78.4,34,10000,Aleatório,valor_frete
+Merge Sort,0.07836549999774434,120403,133616,156.4,,10000,Aleatório,valor_frete
+Heap Sort,0.12974730000132695,244485,131467,78.2,,10000,Ordenado,valor_frete
+Quick Sort (mediana de 3),0.06769429999985732,131457,11790,78.4,14,10000,Ordenado,valor_frete
+Quick Sort (pivô último),23.57522710000194,49995000,0,78.3,9999,10000,Ordenado,valor_frete
+Merge Sort,0.06133939999563154,69008,133616,156.4,,10000,Ordenado,valor_frete
+Heap Sort,0.11938229999941541,226660,116647,78.2,,10000,Inverso,valor_frete
+Quick Sort (mediana de 3),0.13539609999861568,238249,89801,78.4,30,10000,Inverso,valor_frete
+Quick Sort (pivô último),25.72518449999916,47248302,5254,78.3,9458,10000,Inverso,valor_frete
+Merge Sort,0.06349130000307923,64902,133616,156.4,,10000,Inverso,valor_frete
