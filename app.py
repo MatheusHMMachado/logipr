@@ -1,4 +1,4 @@
-"""LogiPR – Laboratório Inteligente de Logística e Entregas (página inicial)."""
+"""LogiPR – Logística e Entregas (página inicial)."""
 import streamlit as st
 
 import util
@@ -6,9 +6,9 @@ import util
 util.configurar("Início")
 util.rodape_backend()
 
-st.title("🚚 LogiPR – Laboratório Inteligente de Logística e Entregas")
+st.title("🚚 LogiPR –  Logística e Entregas")
 st.markdown(
-    "Mini Projeto Formal N2 · **Complexidade de Algoritmos** · "
+    "Projeto Formal N2 · **Complexidade de Algoritmos** · "
     "Classificação, Busca, Ordenação e Análise de Eficiência Computacional"
 )
 
